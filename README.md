@@ -3,6 +3,11 @@
 A simple Node.js powered **command-line tool** to clone any public website (HTML + CSS + JS + Assets) into a local folder for offline usage and learning.  
 
 ---
+## 📸 Screenshots
+
+### 🚀 CLI Banner
+![CLI Banner,Prompt,Success](./assets/cli-UI-UX.png)
+
 
 ## ✨ Features
 
