@@ -9,6 +9,10 @@ A simple Node.js powered **command-line tool** to clone any public website (HTML
 ![CLI Banner,Prompt,Success](./assets/cli-UI-UX.png)
 
 
+## Demo
+
+[🎥 Watch the video](https://drive.google.com/file/d/13Ch-xMc4-DNnbba3f7Evu_UCUu7QSKOu/view)
+
 ## ✨ Features
 
 - 🚀 Clone websites using a single CLI command  
